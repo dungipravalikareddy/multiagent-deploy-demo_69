@@ -1,0 +1,12 @@
+# minimal set for both Streamlit & HF Spaces
+langchain
+langchain-openai
+openai
+python-dotenv
+streamlit
+gradio
+crewai    # optional: only if you actually use crewai; can be omitted
+
+
+gradio>=4.0
+
